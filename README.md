@@ -9,7 +9,9 @@ La costruzione prevede l'utilizzo di una scatola GEWISS 44205, facilmente reperi
 ho semplificato la realizzazione Stampando il file PDF delle viste laterali da cui potrete ritagliare le sagome ddelle forature, che potrete a sua volta  incollare sulle rispettive facce con una colla spary  rimovibile, fate attenzione di rispettare la sequenza della facce . 
 Per chi non trova la scatola, può stamparla direttamente da file con il vantaggio che i fori sono già previsti in fase di stampa.
 per poizionarla ed  illuminare il piano di lavoror ho usato questo oggetto, ma va bene qualsiasi cosa voi decidiate:  https://www.amazon.it/gp/product/B085VRYGB9/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1.
-le ventole si  possono essere trovati su Amazon. https://www.amazon.it/gp/product/B07WD2QDLC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+le ventole si  possono essere trovati su Amazon. https://www.amazon.it/gp/product/B07WD2QDLC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1.
+
+
 ENG.
 Here you can find how to make a compact and economical container for the OCTOPRINT application using RaspberryPi 3A.
 The peculiarity lies in the fact that I have used a very economical and compact commercial container and also in the fact that I use a RASPBERRY PI 3A, also small, economical and performing.
