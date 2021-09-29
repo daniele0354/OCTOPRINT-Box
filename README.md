@@ -1,4 +1,5 @@
 ITA
+
 Qui puoi trovare come realizzare un contenitore compatto ed econimoco per l'applicazione OCTOPRINT utilizzando RaspberryPi 3A. 
 La aprticolarità sta nel fatto che ho utilizzato un contenitore commerciale molto economico e compatto ed anche nel fatto che uso un RASPBERRY PI 3A anc'esso piccolo economico e performante.
 La telecamera è montata su un supporto regolabile che permette di orientarla di  360 gradi lasciandoti la possibilità di posizionarla dove meglio credi.
@@ -13,6 +14,7 @@ le ventole si  possono essere trovati su Amazon. https://www.amazon.it/gp/produc
 
 
 ENG.
+
 Here you can find how to make a compact and economical container for the OCTOPRINT application using RaspberryPi 3A.
 The peculiarity lies in the fact that I have used a very economical and compact commercial container and also in the fact that I use a RASPBERRY PI 3A, also small, economical and performing.
 The camera is mounted on an adjustable support that allows you to orient it 360 degrees leaving you the possibility to position it wherever you see fit.
